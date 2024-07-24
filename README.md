@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 50/150
+## Amount of problems solved: 52/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -34,6 +34,8 @@ NeetCode 150 most important coding interview problems.
   * __Medium__
     - [x] Generate Parentheses
     - [x] Min Stack
+    - [x] Evaluate Reverse Polish Notation
+    - [x] Daily Temperatures
   * __Hard__
 * __Binary Search__
   * __Easy__
