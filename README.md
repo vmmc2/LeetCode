@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 56/150
+## Amount of problems solved: 57/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -54,6 +54,7 @@ NeetCode 150 most important coding interview problems.
     - [x] Copy List with Random Pointer
   * __Hard__
     - [x] Merge K Sorted Lists
+    - [x] Reverse Nodes in k-Group
 * __Trees__
   * __Easy__
     - [x] Maximum Depth of Binary Tree
