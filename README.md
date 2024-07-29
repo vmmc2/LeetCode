@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 57/150
+## Amount of problems solved: 59/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -52,6 +52,8 @@ NeetCode 150 most important coding interview problems.
     - [x] Remove Nth Node From End of List
     - [x] Add Two Numbers
     - [x] Copy List with Random Pointer
+    - [x] LRU Cache
+    - [x] Reorder List
   * __Hard__
     - [x] Merge K Sorted Lists
     - [x] Reverse Nodes in k-Group
@@ -133,3 +135,16 @@ NeetCode 150 most important coding interview problems.
     - [x] Missing Number
   * __Medium__
   * __Hard__
+
+
+## Useful Tricks and Techniques
+* Slow Pointer and Fast Pointer
+* Linked List Reversal
+* Doubly Linked List
+* Dictionaries that stores key-value pairs where the value is a ListNode or a TreeNode
+* Concept of Deep Copy
+* Two Pointers
+* Sliding Window
+* LIFO -> Probably a Stack
+* FIFO -> Probably a Queue
+* Queue where elements have priorities -> Heap
