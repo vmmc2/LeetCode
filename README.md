@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 59/150
+## Amount of problems solved: 60/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -54,6 +54,7 @@ NeetCode 150 most important coding interview problems.
     - [x] Copy List with Random Pointer
     - [x] LRU Cache
     - [x] Reorder List
+    - [x] Find The Duplicate Number
   * __Hard__
     - [x] Merge K Sorted Lists
     - [x] Reverse Nodes in k-Group
@@ -148,3 +149,4 @@ NeetCode 150 most important coding interview problems.
 * LIFO -> Probably a Stack
 * FIFO -> Probably a Queue
 * Queue where elements have priorities -> Heap
+* __Learn more about Floyd's Cycle-Detection Algorithm in an Array/Linked List.__
