@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 60/150
+## Amount of problems solved: 61/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -67,6 +67,7 @@ NeetCode 150 most important coding interview problems.
     - [x] Balanced Binary Tree
     - [x] Subtree of Another Tree
   * __Medium__
+    - [x] Binary Tree Level Order Traversal
   * __Hard__
 * __Heap/Priority Queue__
   * __Easy__
