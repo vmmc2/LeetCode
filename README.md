@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 61/150
+## Amount of problems solved: 65/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -68,6 +68,10 @@ NeetCode 150 most important coding interview problems.
     - [x] Subtree of Another Tree
   * __Medium__
     - [x] Binary Tree Level Order Traversal
+    - [x] Binary Tree Right Side View
+    - [x] Count Good Nodes in Binary Tree
+    - [x] Kth Smallest Element in a BST
+    - [x] Validate Binary Search Tree
   * __Hard__
 * __Heap/Priority Queue__
   * __Easy__
@@ -151,3 +155,4 @@ NeetCode 150 most important coding interview problems.
 * FIFO -> Probably a Queue
 * Queue where elements have priorities -> Heap
 * __Learn more about Floyd's Cycle-Detection Algorithm in an Array/Linked List.__
+* __Remember how to validate a BST: range update while doing a DFS traversal.__
