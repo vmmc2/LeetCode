@@ -71,6 +71,7 @@ NeetCode 150 most important coding interview problems.
     - [x] Binary Tree Right Side View
     - [x] Count Good Nodes in Binary Tree
     - [x] Kth Smallest Element in a BST
+    - [x] Lowest Common Ancestor of a Binary Search Tree
     - [x] Validate Binary Search Tree
   * __Hard__
 * __Heap/Priority Queue__
@@ -156,3 +157,4 @@ NeetCode 150 most important coding interview problems.
 * Queue where elements have priorities -> Heap
 * __Learn more about Floyd's Cycle-Detection Algorithm in an Array/Linked List.__
 * __Remember how to validate a BST: range update while doing a DFS traversal.__
+* __Remember how to calculate the LCA of a BST (The code is very very simple).__
