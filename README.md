@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 65/150
+## Amount of problems solved: 67/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -74,6 +74,7 @@ NeetCode 150 most important coding interview problems.
     - [x] Lowest Common Ancestor of a Binary Search Tree
     - [x] Validate Binary Search Tree
   * __Hard__
+    - [x] Binary Tree Maximum Path Sum
 * __Heap/Priority Queue__
   * __Easy__
     - [x] Kth Largest Element in a Stream
@@ -158,3 +159,4 @@ NeetCode 150 most important coding interview problems.
 * __Learn more about Floyd's Cycle-Detection Algorithm in an Array/Linked List.__
 * __Remember how to validate a BST: range update while doing a DFS traversal.__
 * __Remember how to calculate the LCA of a BST (The code is very very simple).__
+* __Remember how to solve the problem "Binary Tree Maximum Sum" (Has a lot of corner and tricky cases).__
