@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 68/150
+## Amount of problems solved: 69/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -82,6 +82,7 @@ NeetCode 150 most important coding interview problems.
   * __Medium__
     - [x] K Closest Points to Origin
     - [x] Kth Largest Element in an Array
+    - [x] Design Twitter
   * __Hard__
 * __Backtracking__
   * __Easy__
@@ -161,3 +162,4 @@ NeetCode 150 most important coding interview problems.
 * __Remember how to validate a BST: range update while doing a DFS traversal.__
 * __Remember how to calculate the LCA of a BST (The code is very very simple).__
 * __Remember how to solve the problem "Binary Tree Maximum Sum" (Has a lot of corner and tricky cases).__
+* __See the NeetCode solution for "Design Twitter".__
