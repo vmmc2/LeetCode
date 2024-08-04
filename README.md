@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 69/150
+## Amount of problems solved: 75/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -27,6 +27,7 @@ NeetCode 150 most important coding interview problems.
   * __Easy__
     - [x] Best Time to Buy and Sell Stock
   * __Medium__
+    - [x] Longest Substring Without Repeating Characters
   * __Hard__
 * __Stack__
   * __Easy__
@@ -42,6 +43,9 @@ NeetCode 150 most important coding interview problems.
     - [x] Binary Search
   * __Medium__
     - [x] Coco Eating Bananas
+    - [x] Search a 2D Matrix
+    - [x] Find Minimum in Rotated Sorted Array
+    - [x] Search in Rotated Sorted Array
   * __Hard__
 * __Linked List__
   * __Easy__
@@ -83,7 +87,9 @@ NeetCode 150 most important coding interview problems.
     - [x] K Closest Points to Origin
     - [x] Kth Largest Element in an Array
     - [x] Design Twitter
+    - [x] Task Scheduler
   * __Hard__
+    - [x] Find Median from Data Stream
 * __Backtracking__
   * __Easy__
   * __Medium__
@@ -163,3 +169,6 @@ NeetCode 150 most important coding interview problems.
 * __Remember how to calculate the LCA of a BST (The code is very very simple).__
 * __Remember how to solve the problem "Binary Tree Maximum Sum" (Has a lot of corner and tricky cases).__
 * __See the NeetCode solution for "Design Twitter".__
+* __See the NeetCode solution for "Task Scheduler".__
+* __Solve the "Find Minimum in Rotated Sorted Array" again.__
+* __In Binary Search problems, think very carefully about whether you need to use ```<``` or ```<=```.__
