@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 75/150
+## Amount of problems solved: 78/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -46,6 +46,7 @@ NeetCode 150 most important coding interview problems.
     - [x] Search a 2D Matrix
     - [x] Find Minimum in Rotated Sorted Array
     - [x] Search in Rotated Sorted Array
+    - [x] Time Based Key-Value Store
   * __Hard__
 * __Linked List__
   * __Easy__
@@ -77,6 +78,7 @@ NeetCode 150 most important coding interview problems.
     - [x] Kth Smallest Element in a BST
     - [x] Lowest Common Ancestor of a Binary Search Tree
     - [x] Validate Binary Search Tree
+    - [x] Construct Binary Tree from Preorder and Inorder Traversal
   * __Hard__
     - [x] Binary Tree Maximum Path Sum
 * __Heap/Priority Queue__
@@ -172,3 +174,4 @@ NeetCode 150 most important coding interview problems.
 * __See the NeetCode solution for "Task Scheduler".__
 * __Solve the "Find Minimum in Rotated Sorted Array" again.__
 * __In Binary Search problems, think very carefully about whether you need to use ```<``` or ```<=```.__
+* __The "Median of Two Sorted Arrays" problem is very hard and full of tricks.__
