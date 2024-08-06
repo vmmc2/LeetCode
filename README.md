@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 78/150
+## Amount of problems solved: 80/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -22,12 +22,14 @@ NeetCode 150 most important coding interview problems.
   * __Medium__
     - [x] Two Sum II Input Array Is Sorted
     - [x] Container With Most Water
+    - [x] 3Sum
   * __Hard__
 * __Sliding Window__
   * __Easy__
     - [x] Best Time to Buy and Sell Stock
   * __Medium__
     - [x] Longest Substring Without Repeating Characters
+    - [x] Permutation in String
   * __Hard__
 * __Stack__
   * __Easy__
@@ -175,3 +177,5 @@ NeetCode 150 most important coding interview problems.
 * __Solve the "Find Minimum in Rotated Sorted Array" again.__
 * __In Binary Search problems, think very carefully about whether you need to use ```<``` or ```<=```.__
 * __The "Median of Two Sorted Arrays" problem is very hard and full of tricks.__
+* __The "3Sum" problem is very interesting.__
+* __In the problem "Permutation in String", the left pointer always decrements the freqDict and the right pointer always increments the freqDict.__
