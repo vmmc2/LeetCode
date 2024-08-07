@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 82/150
+## Amount of problems solved: 84/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -105,6 +105,8 @@ NeetCode 150 most important coding interview problems.
 * __Tries__
   * __Easy__
   * __Medium__
+  - [x] Implement Trie (Prefix Tree)
+  - [x] Design Add and Search Words Data Structure
   * __Hard__
 * __Graphs__
   * __Easy__
@@ -181,3 +183,4 @@ NeetCode 150 most important coding interview problems.
 * __The "Median of Two Sorted Arrays" problem is very hard and full of tricks.__
 * __The "3Sum" problem is very interesting.__
 * __In the problem "Permutation in String", the left pointer always decrements the freqDict and the right pointer always increments the freqDict.__
+* __The "Design Add and Search Words Data Structure" problem is very interesting and tricky. It's a good idea to do it one more time.__
