@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 86/150
+## Amount of problems solved: 91/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -132,15 +132,20 @@ NeetCode 150 most important coding interview problems.
     - [x] Min Cost Climbing Stairs
     - [x] House Robber
     - [x] House Robber II
+    - [x] Longest Palindromic Substring
+    - [x] Palindromic Substrings
+    - [x] Decode Ways
   * __Medium__
   * __Hard__
 * __2D Dynamic Programming__
   * __Easy__
   * __Medium__
+    - [x] Unique Paths
   * __Hard__
 * __Greedy__
   * __Easy__
   * __Medium__
+    - [x] Maximum Subarray
   * __Hard__
 * __Intervals__
   * __Easy__
