@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 91/150
+## Amount of problems solved: 93/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -146,6 +146,7 @@ NeetCode 150 most important coding interview problems.
   * __Easy__
   * __Medium__
     - [x] Maximum Subarray
+    - [x] Jump Game
   * __Hard__
 * __Intervals__
   * __Easy__
@@ -156,6 +157,7 @@ NeetCode 150 most important coding interview problems.
     - [x] Happy Number
     - [x] Plus One
   * __Medium__
+    - [x] Rotate Image
   * __Hard__
 * __Bit Manipulation__
   * __Easy__
@@ -191,3 +193,4 @@ NeetCode 150 most important coding interview problems.
 * __The "3Sum" problem is very interesting.__
 * __In the problem "Permutation in String", the left pointer always decrements the freqDict and the right pointer always increments the freqDict.__
 * __The "Design Add and Search Words Data Structure" problem is very interesting and tricky. It's a good idea to do it one more time.__
+* __The "Jump Game" problem is an excelent greedy problem.__
