@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 94/150
+## Amount of problems solved: 98/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -130,12 +130,16 @@ NeetCode 150 most important coding interview problems.
   * __Easy__
     - [x] Climbing Stairs
     - [x] Min Cost Climbing Stairs
+  * __Medium__
     - [x] House Robber
     - [x] House Robber II
     - [x] Longest Palindromic Substring
     - [x] Palindromic Substrings
     - [x] Decode Ways
-  * __Medium__
+    - [x] Partition Equal Subset Sum
+    - [x] Coin Change
+    - [x] Maximum Product Subarray
+    - [x] Word Break
   * __Hard__
 * __2D Dynamic Programming__
   * __Easy__
@@ -195,3 +199,5 @@ NeetCode 150 most important coding interview problems.
 * __In the problem "Permutation in String", the left pointer always decrements the freqDict and the right pointer always increments the freqDict.__
 * __The "Design Add and Search Words Data Structure" problem is very interesting and tricky. It's a good idea to do it one more time.__
 * __The "Jump Game" problem is an excelent greedy problem.__
+* __The "Maximum Product Subarray" problem is a tricky 1D DP problem worth reviewing.__
+* __The "Word Break" problem is a very good 1D DP problem.__
