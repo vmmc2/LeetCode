@@ -1,7 +1,16 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 103/150
+## Amount of problems solved: 103/143
+
+## Paid Problems (7)
+* Encode and Decode Strings
+* Meeting Rooms
+* Meeting Rooms II
+* Alien Dictionary
+* Walls and Gates
+* Graph Valid Tree
+* Number of Connected Components In An Undirected Graph
 
 ## Solved Problems
 * __Arrays & Hashing__
