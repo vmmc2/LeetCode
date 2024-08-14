@@ -7,7 +7,6 @@ class Solution:
         for u, v, w in times:
             graph[u].append((v, w))
 
-        visited = [False for _ in range(0, n + 1)]
         dist = [float("inf") for _ in range(0, n + 1)]
         dist[k] = 0
 
@@ -15,10 +14,10 @@ class Solution:
 
         while len(minHeap) != 0:
             minPath, currNode = heapq.heappop(minHeap)
-            if minPath == dist[currNode]:
-                for neighbor, edge in graph[currNode]:
-                    if minPath + edge < dist[neighbor]:
-                        dist[neighbor] = minPath + edge
-                        heapq.heappush(minHeap, (minPath + edge, neighbor))
+
+            for neighbor, edge in graph[currNode]:
+                if dist[currNode] + edge < dist[neighbor]:
+                    dist[neighbor] = dist[currNode] + edge
+                    heapq.heappush(minHeap, (dist[neighbor], neighbor))
 
         return -1 if float("inf") in dist[1:] else max(dist[1:])
