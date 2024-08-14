@@ -1,7 +1,7 @@
 # NeetCode
 NeetCode 150 most important coding interview problems.
 
-## Amount of problems solved: 102/150
+## Amount of problems solved: 103/150
 
 ## Solved Problems
 * __Arrays & Hashing__
@@ -128,6 +128,7 @@ NeetCode 150 most important coding interview problems.
   * __Medium__
     - [x] Min Cost to Connect All Points
     - [x] Network Delay Time
+    - [x] Cheapest Flights Within K Stops
   * __Hard__
 * __1D Dynamic Programming__
   * __Easy__
