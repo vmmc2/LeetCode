@@ -1,5 +1,5 @@
-# NeetCode
-NeetCode 150 most important coding interview problems.
+# LeetCode
+LeetCode problems' solutions for coding interview preparation.
 
 ## Amount of problems solved: 103/143
 
