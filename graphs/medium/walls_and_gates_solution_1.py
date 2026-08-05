@@ -1,3 +1,5 @@
+# Time Complexity: O(M^2 * N^2)
+
 from collections import deque
 
 class Solution:
